@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\bin\Debug\HomWorkATM.exe.config
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\bin\Debug\HomWorkATM.exe
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\bin\Debug\HomWorkATM.pdb
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\obj\Debug\HomWorkATM.csprojAssemblyReference.cache
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\obj\Debug\HomWorkATM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\obj\Debug\HomWorkATM.exe
+C:\Users\User\Desktop\HomWorkATM\HomWorkATM\obj\Debug\HomWorkATM.pdb

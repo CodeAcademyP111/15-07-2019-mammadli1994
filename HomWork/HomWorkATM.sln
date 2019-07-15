@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomWorkATM", "HomWorkATM\HomWorkATM.csproj", "{DDEB9DF6-60FE-4847-95E1-6A597B9F9ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEB9DF6-60FE-4847-95E1-6A597B9F9ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEB9DF6-60FE-4847-95E1-6A597B9F9ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEB9DF6-60FE-4847-95E1-6A597B9F9ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEB9DF6-60FE-4847-95E1-6A597B9F9ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537FB607-B23E-423C-B46D-46E4E73F13D5}
+	EndGlobalSection
+EndGlobal
