@@ -1,0 +1,10 @@
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\bin\Debug\EvenAndDelegate.exe.config
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\bin\Debug\EvenAndDelegate.exe
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\bin\Debug\EvenAndDelegate.pdb
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.Form1.resources
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.Properties.Resources.resources
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.csproj.GenerateResource.cache
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.exe
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\EvenAndDelegate\EvenAndDelegate\obj\Debug\EvenAndDelegate.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\Aishe\Desktop\p111\C#\15.07.2019\Delegates\Delegates\obj\Debug\Delegates.pdb
